@@ -20,8 +20,6 @@ Template:
 
 0. **Google**
 
-  * [Material Design](https://material.io/guidelines/)
-
   * [Style Guides (Code)](https://google.github.io/styleguide/)
 
 0. **Microsoft Windows**

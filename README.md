@@ -1,10 +1,9 @@
 # docsDoc
 ### Documentation of Documentation
 
-docsDoc originated in [this Level1Techs forum post](https://forum.level1techs.com/t/aggregating-documentation/122484/8).
+docsDoc is a structured compilation of various documentation concerning information technology and computer science. It originated in [this Level1Techs forum post](https://forum.level1techs.com/t/aggregating-documentation/122484/8).
 
-docsDoc is a repository of links related to information technology and computer science. It is compatible with [Raneto](http://raneto.com/), and can be cloned as-is into the Raneto `content` directory.
-
+docsDoc can be viewed as individual markdown pages the `content` directory, or as a [Renato](http://raneto.com/) site.
 
 ## Local Raneto Install
 

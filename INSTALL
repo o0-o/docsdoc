@@ -14,8 +14,6 @@ git clone https://github.com/gilbitron/Raneto.git ~/raneto
 
 cp -a ~/raneto/example ~/raneto/docsdoc
 
-cp -a "$(dirname $0)"/update ~/raneto/
-
 chmod +x ~/raneto/udpate
 
 sed --in-place 's/example/docsdoc/g'\
@@ -40,6 +38,12 @@ git remote add docsdoc https://github.com/dotdigital-digital/docsdoc.git
 git fetch docsdoc
 
 git checkout docsdoc/master -- content
+
+git checkout docsdoc/master -- update
+
+chmod +x update
+
+mv update ../udpate
 
 cd ~/raneto
 

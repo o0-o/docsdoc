@@ -14,8 +14,6 @@ git clone https://github.com/gilbitron/Raneto.git ~/raneto
 
 cp -a ~/raneto/example ~/raneto/docsdoc
 
-chmod +x ~/raneto/udpate
-
 sed --in-place 's/example/docsdoc/g'\
   ~/raneto/package.json
 
@@ -24,7 +22,7 @@ sed --in-place 's/Raneto[[:space:]]Docs/docsdoc/'\
 
 RAND="$(openssl rand -base64 $(($(($RANDOM%17))+23)))"
 
-sed --in-place 's/admin/${RAND}/g'\
+sed --in-place 's/admin/\"${RAND}\"/g'\
   ~/raneto/docsdoc/config.default.js
 
 cd ~/raneto/docsdoc

@@ -1,40 +1,40 @@
 /*
 Title: GNU/Linux
 Sort: 300
-*/
+****/
 
-### GNU's Not Unix! (GNU)
+0. **GNU's Not Unix! (GNU)**
 
-* [Official Website](https://www.gnu.org/)
+  * [Official Website](https://www.gnu.org/)
 
-* [Official Documentation](https://www.gnu.org/manual/manual.html)
+  * [Official Documentation](https://www.gnu.org/manual/manual.html)
 
-* [Wikipedia](https://en.wikipedia.org/wiki/GNU)
+  * [Wikipedia](https://en.wikipedia.org/wiki/GNU)
 
-### Linux
+0. **Linux**
 
-* [The Linux Foundation](https://www.linuxfoundation.org/)
+  * [The Linux Foundation](https://www.linuxfoundation.org/)
 
-* [Man Pages](https://www.linux.org/docs/)
+  * [Man Pages](https://www.linux.org/docs/)
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Linux)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-### Linux Standard Base (LSB)
+0. **Linux Standard Base (LSB)**
 
-* [Specification](https://refspecs.linuxfoundation.org/lsb.shtml)
+  * [Specification](https://refspecs.linuxfoundation.org/lsb.shtml)
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Linux_Standard_Base)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Linux_Standard_Base)
 
-### Filesystem Hierarchy Standard (FHS)
+0. **Filesystem Hierarchy Standard (FHS)**
 
-* [Specification](http://refspecs.linuxfoundation.org/fhs.shtml)
+  * [Specification](http://refspecs.linuxfoundation.org/fhs.shtml)
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
-### Misc/General
+0. **Misc/General**
 
-* [GNU/Linux Distribution Timeline](http://futurist.se/gldt/)
+  * [GNU/Linux Distribution Timeline](http://futurist.se/gldt/)
 
-* [Distrowatch](https://distrowatch.com/)
+  * [Distrowatch](https://distrowatch.com/)
 
-* [Packages](https://pkgs.org/)
+  * [Packages](https://pkgs.org/)

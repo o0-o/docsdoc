@@ -1,33 +1,33 @@
 /*
 Title: Proprietary
 Sort: 400
-*/
+****/
 
-### Apple
+0. **Apple**
 
-### Google
+0. **Google**
 
-* [Material Design](https://material.io/guidelines/)
+  * [Material Design](https://material.io/guidelines/)
 
-* [Style Guides (Code)](https://google.github.io/styleguide/)
+  * [Style Guides (Code)](https://google.github.io/styleguide/)
 
-* [Twitter](https://twitter.com/Google)
+  * [Twitter](https://twitter.com/Google)
 
-### Microsoft
+0. **Microsoft**
 
-### Ubiquiti
+0. **Ubiquiti**
 
-* [Official Website](https://www.ubnt.com/)
+  * [Official Website](https://www.ubnt.com/)
 
-* [EdgeMAX Firmware](https://www.ubnt.com/download/edgemax)
+  * [EdgeMAX Firmware](https://www.ubnt.com/download/edgemax)
 
-* [EdgeOS User Guide](https://dl.ubnt.com/guides/edgemax/EdgeOS_UG.pdf)
+  * [EdgeOS User Guide](https://dl.ubnt.com/guides/edgemax/EdgeOS_UG.pdf)
 
-* [EdgeMAX Forum](https://community.ubnt.com/edgemax)
+  * [EdgeMAX Forum](https://community.ubnt.com/edgemax)
 
 
-### VMWare
+0. **VMWare**
 
-* [vSphere Command-Line Interface Reference](https://code.vmware.com/doc/preview?id=4164)
+  * [vSphere Command-Line Interface Reference](https://code.vmware.com/doc/preview?id=4164)
 
-* [Twitter](https://twitter.com/VMware)
+  * [Twitter](https://twitter.com/VMware)

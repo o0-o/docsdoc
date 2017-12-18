@@ -7,6 +7,8 @@ Sort: 100
 
   * [Official Website](https://www.iso.org/home.html)
 
+  * [Publicly Available Standards](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
+
   * [Wikipedia](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 
   * [Twitter](https://twitter.com/isostandards)

@@ -31,6 +31,8 @@ sed --in-place 's/admin/${RAND}/g'\
 
 cd ~/raneto/docsdoc
 
+rm -rf content/*
+
 git init
 
 git remote add docsdoc https://github.com/dotdigital-digital/docsdoc.git

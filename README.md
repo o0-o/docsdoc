@@ -1,5 +1,5 @@
 # docsDoc
-###Documentation of Documentation
+### Documentation of Documentation
 
 docsDoc originated in the Level1Techs forum post [here](https://forum.level1techs.com/t/aggregating-documentation/122484/8).
 

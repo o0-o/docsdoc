@@ -22,7 +22,7 @@ sed --in-place 's/Raneto[[:space:]]Docs/docsdoc/'\
 
 RAND="$(openssl rand -base64 $(($(($RANDOM%17))+23)))"
 
-sed --in-place 's/admin/\"${RAND}\"/g'\
+sed --in-place "s@admin@${RAND}@g"\
   ~/raneto/docsdoc/config.default.js
 
 cd ~/raneto/docsdoc

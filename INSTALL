@@ -41,7 +41,7 @@ git checkout docsdoc/master -- update
 
 chmod +x update
 
-mv update ../udpate
+mv update ../update
 
 cd ~/raneto
 

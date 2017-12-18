@@ -1,0 +1,2 @@
+# docsdoc
+Documentation of documentation.

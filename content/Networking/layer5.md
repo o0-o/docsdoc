@@ -9,3 +9,7 @@ Template:
 * []()
 
 ****/
+
+0. **Network Socket**
+
+  * [Wikipedia](https://en.wikipedia.org/wiki/Network_socket)

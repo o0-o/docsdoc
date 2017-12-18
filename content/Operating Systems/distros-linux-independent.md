@@ -1,6 +1,13 @@
 /*
-Title: Independent Linux Distributions
+Title: GNU/Linux Distributions (Independent)
 Sort: 800
+
+Template:
+
+0. ****
+
+* []()
+
 ****/
 
 0. **Arch**

@@ -1,6 +1,13 @@
 /*
-Title: Slackware Linux Distributions
+Title: GNU/Linux Distributions (Slackware)
 Sort: 500
+
+Template:
+
+0. ****
+
+* []()
+
 ****/
 
 0. **openSUSE**

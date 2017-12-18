@@ -1,6 +1,13 @@
 /*
-Title: Debian Linux Distributions
+Title: GNU/Linux Distributions  (Debian)
 Sort: 600
+
+Template:
+
+0. ****
+
+* []()
+
 ****/
 
 0. **Debian**
@@ -30,3 +37,17 @@ Sort: 600
   * [Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 
   * [Twitter](https://twitter.com/ubuntu)
+
+0. **VyOS**
+
+  * [Official Website](https://vyos.io/)
+
+  * [Download](https://downloads.vyos.io/?dir=release/1.1.8)
+
+  * [Official Documentation](https://wiki.vyos.net/wiki/User_documentation)
+
+  * [Wikipedia](https://en.wikipedia.org/wiki/VyOS)
+
+0. **Ubiquiti EdgeOS** – <span style="color:red">Proprietary</span>
+
+  * [Download](https://www.ubnt.com/download/edgemax)

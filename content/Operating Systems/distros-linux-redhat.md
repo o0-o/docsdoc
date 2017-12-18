@@ -1,6 +1,13 @@
 /*
-Title: Red Hat Linux Distributions
+Title: GNU/Linux Distributions (Red Hat)
 Sort: 700
+
+Template:
+
+0. ****
+
+* []()
+
 ****/
 
 0. **Fedora**

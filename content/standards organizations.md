@@ -3,8 +3,6 @@ Title: Standards Organizations
 Sort: 100
 */
 
-# Standards Organizations
-
 ### International Organization for Standardization (ISO)
 
 * [Official Website](https://www.iso.org/home.html)

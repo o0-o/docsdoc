@@ -3,8 +3,6 @@ Title: Networking
 Sort: 200
 */
 
-# Networking
-
 ### Open Systems Interconnection (OSI)
 
 * ISO 35.100 <-- I can't find this without a paywall

@@ -3,8 +3,6 @@ Title: Independent Linux Distributions
 Sort: 500
 */
 
-# Linux Distributions (Independent)
-
 ### Arch
 
 * [Official Website](https://www.archlinux.org/)

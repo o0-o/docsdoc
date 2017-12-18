@@ -1,9 +1,7 @@
 /*
-Title: Debian Distributions
+Title: Debian Linux Distributions
 Sort: 300
 */
-
-# Linux Distributions (Debian)
 
 ### Debian
 

@@ -1,9 +1,7 @@
 /*
-Title: Slackware Distributions
+Title: Slackware Linux Distributions
 Sort: 200
 */
-
-# Linux Distributions (Slackware)
 
 ### openSUSE
 

@@ -3,8 +3,6 @@ Title: Proprietary
 Sort: 400
 */
 
-# Proprietary
-
 ### Apple
 
 ### Google

@@ -1,9 +1,7 @@
 /*
-Title: Red Hat Distributions
+Title: Red Hat Linux Distributions
 Sort: 400
 */
-
-# Linux Distributions (Red Hat)
 
 ### Fedora
 

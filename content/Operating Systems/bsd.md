@@ -1,9 +1,7 @@
 /*
-Title: BSD
+Title: Berkeley Software Distribution (BSD)
 Sort: 200
 */
-
-# Berkeley Software Distribution (BSD)
 
 ### Misc/General
 

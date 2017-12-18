@@ -3,8 +3,6 @@ Title: BSD Distributions
 Sort: 100
 */
 
-# BSD Distributions
-
 ### OpenBSD
 
 * [Official Website](https://www.openbsd.org/)

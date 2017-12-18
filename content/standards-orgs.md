@@ -1,9 +1,9 @@
 /*
 Title: Standards Organizations
 Sort: 100
-*/
+****/
 
-1. International Organization for Standardization (ISO)
+1. ######International Organization for Standardization (ISO)
 
   * [Official Website](https://www.iso.org/home.html)
 
@@ -11,7 +11,7 @@ Sort: 100
 
   * [Twitter](https://twitter.com/isostandards)
 
-1. Institute of Electrical and Electronics Engineers (IEEE)
+1. **Institute of Electrical and Electronics Engineers (IEEE)**
 
   * [Official Website](https://www.ieee.org/index.html)
 

@@ -1,6 +1,6 @@
 /*
 Title: Debian Linux Distributions
-Sort: 300
+Sort: 600
 */
 
 ### Debian

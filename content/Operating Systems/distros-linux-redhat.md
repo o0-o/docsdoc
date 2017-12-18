@@ -1,6 +1,6 @@
 /*
 Title: Red Hat Linux Distributions
-Sort: 400
+Sort: 700
 */
 
 ### Fedora

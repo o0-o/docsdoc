@@ -1,6 +1,6 @@
 /*
 Title: Slackware Linux Distributions
-Sort: 200
+Sort: 500
 */
 
 ### openSUSE

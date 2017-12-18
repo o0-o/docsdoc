@@ -1,6 +1,6 @@
 /*
 Title: GNU/Linux Distributions (Slackware)
-Sort: 500
+Sort: 600
 
 Template:
 

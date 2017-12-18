@@ -1,6 +1,6 @@
 /*
 Title: Proprietary Operating Systems
-Sort: 900
+Sort: 1000
 
 Template:
 

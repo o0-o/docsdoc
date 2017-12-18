@@ -1,6 +1,6 @@
 /*
 Title: GNU/Linux Distributions (Independent)
-Sort: 800
+Sort: 900
 
 Template:
 

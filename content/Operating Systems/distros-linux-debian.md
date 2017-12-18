@@ -1,6 +1,6 @@
 /*
 Title: GNU/Linux Distributions  (Debian)
-Sort: 600
+Sort: 700
 
 Template:
 

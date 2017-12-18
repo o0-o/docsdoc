@@ -1,6 +1,6 @@
 /*
 Title: BSD Distributions (FreeBSD)
-Sort: 400
+Sort: 300
 
 Template:
 

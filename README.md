@@ -22,7 +22,7 @@ docsDoc is a repository of links related to information technology and computer 
 
 `cd ~/raneto`
 
-`update`
+`./update`
 
 ### View
 

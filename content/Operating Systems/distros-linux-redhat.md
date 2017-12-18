@@ -1,6 +1,6 @@
 /*
 Title: GNU/Linux Distributions (Red Hat)
-Sort: 700
+Sort: 800
 
 Template:
 

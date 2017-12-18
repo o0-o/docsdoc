@@ -14,7 +14,7 @@ Template:
 
   * [ISO 35.100 (OSI)](https://www.iso.org/ics/35.100/x/) – <span style="color:red">Paywall</span>
 
-  * [ISO/IEC 7498-1:1994 (OSI Model)](http://standards.iso.org/ittf/PubliclyAvailableStandards/s020269_ISO_IEC_7498-1_1994(E).zip)
+  * [ISO/IEC 7498-1:1994 (OSI Model)](http://standards.iso.org/ittf/PubliclyAvailableStandards/s020269_ISO_IEC_7498-1_1994(E)\.zip)
 
   * [Wikipedia (OSI)](https://en.wikipedia.org/wiki/Open_Systems_Interconnection)
 

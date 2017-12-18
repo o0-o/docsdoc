@@ -1,6 +1,6 @@
 # STANDARDS ORGANIZATIONS
 
-### 1. International Organization for Standardization (ISO)
+### International Organization for Standardization (ISO)
  
 * [Official Website](https://www.iso.org/home.html)
 
@@ -8,7 +8,7 @@
 
 * [Twitter](https://twitter.com/isostandards)
 
-### 2. Institute of Electrical and Electronics Engineers (IEEE)
+### Institute of Electrical and Electronics Engineers (IEEE)
 
 * [Official Website](https://www.ieee.org/index.html)
 
@@ -16,7 +16,7 @@
 
 * [Twitter](https://twitter.com/IEEEorg)
 
-### 3. The Internet Engineering Task Force (IETF)
+### The Internet Engineering Task Force (IETF)
 
 * [Official Website](https://www.ietf.org/)
 
@@ -24,7 +24,7 @@
 
 * [Twitter](https://twitter.com/ietf)
 
-### 4. Internet Corporation for Assigned Names and Number (ICANN)
+### Internet Corporation for Assigned Names and Number (ICANN)
 
 * [Official Website](https://www.icann.org/)
 
@@ -32,7 +32,7 @@
 
 * [Twitter](https://twitter.com/ICANN)
 
-### 5. Internet Assigned Numbers Authority (IANA)
+### Internet Assigned Numbers Authority (IANA)
 
 * [Official Website](https://www.iana.org/)
 
@@ -41,19 +41,19 @@
 ---
 # NETWORKING
 
-### 1. Open Systems Interconnection (OSI)
+### Open Systems Interconnection (OSI)
 
 * ISO 35.100 <-- I can't find this without a paywall
 
 * [Wikipedia](https://en.wikipedia.org/wiki/OSI_model)
 
-### 2. Internet Protocol Suite (TCP/IP)
+### Internet Protocol Suite (TCP/IP)
 
 * [IETF RFC 1122](https://tools.ietf.org/html/rfc1122)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
-### 3. Service Name and Transport Protocol Port Number Registry
+### Service Name and Transport Protocol Port Number Registry
 
 * [Official List](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 
@@ -65,7 +65,7 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
-### 4. Top-Level Domains (TLD)
+### Top-Level Domains (TLD)
 
 * [Official List](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
@@ -73,7 +73,7 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
 
-### 99. Misc/General
+### Misc/General
 
 * [Internetworking Basics (Cisco)](https://www.cisco.com/cpress/cc/td/cpress/fund/ith/ith01gb.htm#xtocid166840)
 
@@ -85,13 +85,13 @@
 
 ## Unix Base
 
-### 1. Single UNIX Specification (SUS)
+### Single UNIX Specification (SUS)
 
 * [IEEE Std 1003.1™-2008, 2016 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/xrat/contents.html)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Single_UNIX_Specification)
 
-### 2. Portable Operating System Interface (POSIX)
+### Portable Operating System Interface (POSIX)
 
 * [IEEE Std 1003.1™-2008, 2016 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/xrat/contents.html)
 
@@ -99,7 +99,7 @@
 
 ## GNU/LINUX
 
-### 1. GNU's Not Unix! (GNU)
+### GNU's Not Unix! (GNU)
 
 * [Official Website](https://www.gnu.org/)
 
@@ -107,7 +107,7 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/GNU)
 
-### 2. Linux
+### Linux
 
 * [The Linux Foundation](https://www.linuxfoundation.org/)
 
@@ -115,19 +115,19 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-### 3. Linux Standard Base (LSB)
+### Linux Standard Base (LSB)
 
 * [Specification](https://refspecs.linuxfoundation.org/lsb.shtml)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Linux_Standard_Base)
 
-### 4.  Filesystem Hierarchy Standard (FHS)
+### Filesystem Hierarchy Standard (FHS)
 
 * [Specification](http://refspecs.linuxfoundation.org/fhs.shtml)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
-### 99. Misc/General
+### Misc/General
 
 * [GNU/Linux Distribution Timeline](http://futurist.se/gldt/)
 
@@ -137,7 +137,7 @@
 
 ## Berkeley Software Distribution (BSD)
 
-### 99. Misc/General
+### Misc/General
 
 * [Specification](https://www.freebsd.org/doc/en_US.ISO8859-1/books/design-44bsd/)
 
@@ -149,7 +149,7 @@
 
 ## Linux Distributions (Slackware)
 
-### 2. openSUSE
+### openSUSE
 
 * [Official Website](https://www.opensuse.org/)
 
@@ -165,7 +165,7 @@
 
 ## Linux Distributions (Debian)
 
-### 1. Debian
+### Debian
 
 * [Official Website](https://www.debian.org/)
 
@@ -179,7 +179,7 @@
 
 * [Twitter](https://twitter.com/debian)
 
-### 2. Ubuntu
+### Ubuntu
 
 * [Official Website](https://www.ubuntu.com/)
 
@@ -195,7 +195,7 @@
 
 ## Linux Distributions (Red Hat)
 
-### 1. Fedora
+### Fedora
 
 * [Official Website](https://getfedora.org/)
 
@@ -209,7 +209,7 @@
 
 * [Twitter](https://twitter.com/fedora)
 
-### 2. Red Hat Enterprise Linux (RHEL)
+### Red Hat Enterprise Linux (RHEL)
 
 * [Official Website](https://www.redhat.com/en)
 
@@ -227,7 +227,7 @@
 
 * [Twitter](https://twitter.com/RedHatNews)
 
-### 3. CentOS
+### CentOS
 
 * [Official Website](https://www.centos.org/)
 
@@ -237,7 +237,7 @@
 
 ## Linux Distributions (Independent)
 
-### 1. Arch
+### Arch
 
 * [Official Website](https://www.archlinux.org/)
 
@@ -253,7 +253,7 @@
 
 ## BSD Distributions
 
-### 1. OpenBSD
+### OpenBSD
 
 * [Official Website](https://www.openbsd.org/)
 
@@ -265,7 +265,7 @@
 
 * [Wikipedia](https://en.wikipedia.org/wiki/OpenBSD)
 
-### 2. FreeBSD
+### FreeBSD
 
 * [Official Website](https://www.freebsd.org/)
 
@@ -279,7 +279,7 @@
 
 * [Twitter](https://twitter.com/freebsd)
 
-### 3. pfSense
+### pfSense
 
 * [Official Website](https://www.pfsense.org/)
 
@@ -291,7 +291,7 @@
 
 * [Twitter](https://twitter.com/pfsense)
 
-### 4. FreeNAS
+### FreeNAS
 
 * [Official Website](http://www.freenas.org/)
 
@@ -310,9 +310,9 @@
 ---
 # PROPRIETARY
 
-### 1. Apple
+### Apple
 
-### 2. Google
+### Google
 
 * [Material Design](https://material.io/guidelines/)
 
@@ -320,9 +320,9 @@
 
 * [Twitter](https://twitter.com/Google)
 
-### 3. Microsoft
+### Microsoft
 
-### 4. Ubiquiti
+### Ubiquiti
 
 * [Official Website](https://www.ubnt.com/)
 
@@ -333,7 +333,7 @@
 * [EdgeMAX Forum](https://community.ubnt.com/edgemax)
 
 
-### 5. VMWare
+### VMWare
 
 * [vSphere Command-Line Interface Reference](https://code.vmware.com/doc/preview?id=4164)
 

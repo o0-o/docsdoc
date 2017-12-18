@@ -1,4 +1,9 @@
-## BSD Distributions
+/*
+Title: BSD Distributions
+Sort: 100
+*/
+
+# BSD Distributions
 
 ### OpenBSD
 

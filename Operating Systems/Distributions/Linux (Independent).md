@@ -1,3 +1,8 @@
+/*
+Title: Independent Linux Distributions
+Sort: 500
+*/
+
 # Linux Distributions (Independent)
 
 ### Arch

@@ -18,7 +18,6 @@ Template:
 
   * [Wikipedia](https://en.wikipedia.org/wiki/MAC_address)
 
-
 0. **Organizational Unique Identifier (OUI)**
 
   * [Official List](http://standards-oui.ieee.org/oui.txt)

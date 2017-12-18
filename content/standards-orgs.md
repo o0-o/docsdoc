@@ -3,7 +3,7 @@ Title: Standards Organizations
 Sort: 100
 ****/
 
-1. ######International Organization for Standardization (ISO)
+0. **International Organization for Standardization (ISO)**
 
   * [Official Website](https://www.iso.org/home.html)
 
@@ -11,7 +11,7 @@ Sort: 100
 
   * [Twitter](https://twitter.com/isostandards)
 
-1. **Institute of Electrical and Electronics Engineers (IEEE)**
+0. **Institute of Electrical and Electronics Engineers (IEEE)**
 
   * [Official Website](https://www.ieee.org/index.html)
 
@@ -19,7 +19,7 @@ Sort: 100
 
   * [Twitter](https://twitter.com/IEEEorg)
 
-1. The Internet Engineering Task Force (IETF)
+0. **The Internet Engineering Task Force (IETF)**
 
   * [Official Website](https://www.ietf.org/)
 
@@ -27,7 +27,7 @@ Sort: 100
 
   * [Twitter](https://twitter.com/ietf)
 
-1. Internet Corporation for Assigned Names and Number (ICANN)
+0. **Internet Corporation for Assigned Names and Number (ICANN)**
 
   * [Official Website](https://www.icann.org/)
 
@@ -35,7 +35,7 @@ Sort: 100
 
   * [Twitter](https://twitter.com/ICANN)
 
-1. Internet Assigned Numbers Authority (IANA)
+0. **Internet Assigned Numbers Authority (IANA)**
 
   * [Official Website](https://www.iana.org/)
 

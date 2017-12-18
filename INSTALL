@@ -14,10 +14,10 @@ git clone https://github.com/gilbitron/Raneto.git ~/raneto
 
 cp -a ~/raneto/example ~/raneto/docsdoc
 
-sed --in-place 's/example/docsDoc/g'\
+sed --in-place 's/example/docsdoc/g'\
   ~/raneto/package.json
 
-sed --in-place 's/Raneto[[:space:]]Docs/docsdoc/'\
+sed --in-place 's/Raneto[[:space:]]Docs/docsDoc/'\
   ~/raneto/docsdoc/config.default.js
 
 RAND="$(openssl rand -base64 $(($(($RANDOM%17))+23)))"

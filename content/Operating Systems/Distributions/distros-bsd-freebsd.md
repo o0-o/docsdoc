@@ -42,7 +42,7 @@ Template:
 
   * [Download](http://www.freenas.org/download-freenas-release/)
 
-  * [Official Documentatiion](http://doc.freenas.org/)
+  * [Official Documentation](http://doc.freenas.org/)
 
   * [Roadmap/Bug Tracker](https://redmine.ixsystems.com/projects/freenas/roadmap)
 

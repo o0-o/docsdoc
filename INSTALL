@@ -14,7 +14,7 @@ git clone https://github.com/gilbitron/Raneto.git ~/raneto
 
 cp -a ~/raneto/example ~/raneto/docsdoc
 
-sed --in-place 's/example/docsdoc/g'\
+sed --in-place 's/example/docsDoc/g'\
   ~/raneto/package.json
 
 sed --in-place 's/Raneto[[:space:]]Docs/docsdoc/'\

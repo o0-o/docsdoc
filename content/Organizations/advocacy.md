@@ -19,3 +19,13 @@ Sort:
   * [Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
   * [Twitter](https://twitter.com/fsf)
+
+0. **Linux Foundation (LF)**
+
+  * [Official Website](https://www.linuxfoundation.org/)
+
+  * [Affiliate (linux.com)](https://www.linux.com/)
+
+  * [Wikipedia](https://en.wikipedia.org/wiki/Linux_Foundation#Linux.com)
+
+  * [Twitter](https://twitter.com/linuxfoundation)

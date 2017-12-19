@@ -11,4 +11,4 @@ Template:
 
 0. **PHP: Hypertext Preprocessor (PHP)**
 
-* [Wikipedia](https://en.wikipedia.org/wiki/PHP)
+  * [Wikipedia](https://en.wikipedia.org/wiki/PHP)

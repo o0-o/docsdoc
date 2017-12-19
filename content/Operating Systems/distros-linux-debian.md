@@ -47,7 +47,3 @@ Template:
   * [Official Documentation](https://wiki.vyos.net/wiki/User_documentation)
 
   * [Wikipedia](https://en.wikipedia.org/wiki/VyOS)
-
-0. **Ubiquiti EdgeOS** – <span style="color:red">Proprietary</span>
-
-  * [Download](https://www.ubnt.com/download/edgemax)

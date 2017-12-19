@@ -10,7 +10,7 @@ Template:
 
 ****/
 
-0. **Apple OS X/macOS**  – <span style="color:red">Proprietary</span>
+0. **Apple macOS (Formerly OS X)**
 
   * [Official Website](https://www.apple.com/macos/)
 
@@ -18,11 +18,9 @@ Template:
 
   * [Wikipedia](https://en.wikipedia.org/wiki/MacOS)
 
-0. **Google**
-
-  * [Style Guides (Code)](https://google.github.io/styleguide/)
-
 0. **Microsoft Windows**
+
+  * [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 0. **Ubiquiti EdgeMAX**
 

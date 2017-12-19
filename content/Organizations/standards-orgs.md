@@ -3,7 +3,8 @@ Title: Standards Organizations
 Sort: 100
 */
 
-## General
+### General
+---
 
 0. **International Organization for Standardization (ISO)**
 
@@ -35,7 +36,8 @@ Sort: 100
 
   * [Twitter](https://twitter.com/IEEEorg)
 
-## Internet
+### Internet
+---
 
 0. **The Internet Engineering Task Force (IETF)**
 

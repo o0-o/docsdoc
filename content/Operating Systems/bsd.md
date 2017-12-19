@@ -1,14 +1,7 @@
 /*
 Title: Berkeley Software Distribution (BSD)
 Sort: 200
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Misc/General**
 

@@ -1,13 +1,6 @@
 /*
 Title: C Languages
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **C**
 

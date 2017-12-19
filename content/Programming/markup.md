@@ -1,13 +1,6 @@
 /*
 Title: Markup Languages
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Hypertext Markup Language**
 

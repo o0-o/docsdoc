@@ -1,14 +1,7 @@
 /*
 Title: Proprietary Operating Systems
 Sort: 1000
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Apple macOS (Formerly OS X)**
 

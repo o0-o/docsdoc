@@ -1,14 +1,7 @@
 /*
 Title: BSD Distributions (Independent)
 Sort: 400
-
-Template:
-
-0. ****
-
-  * []()
-
-****/
+*/
 
 0. **OpenBSD**
 

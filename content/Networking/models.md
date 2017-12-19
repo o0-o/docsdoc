@@ -1,14 +1,7 @@
 /*
 Title: Networking Models
 Sort: 100
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Open Systems Interconnection (OSI)**
 

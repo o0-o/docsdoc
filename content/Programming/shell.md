@@ -1,13 +1,6 @@
 /*
 Title: Shell Scripting
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Bourne-Again shell (BASH)**
 

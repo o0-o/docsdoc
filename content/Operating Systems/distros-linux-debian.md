@@ -1,14 +1,7 @@
 /*
 Title: GNU/Linux Distributions  (Debian)
 Sort: 700
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Debian**
 

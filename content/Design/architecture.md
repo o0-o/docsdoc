@@ -1,14 +1,7 @@
 /*
 Title: Software Architecture
 Sort: 100
-
-Template:
-
-0. ****
-
-  * []()
-
-****/
+*/
 
 0. **Model–View–Controller (MVC)**
 

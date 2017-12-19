@@ -1,14 +1,7 @@
 /*
 Title: Unix
 Sort: 100
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Single UNIX Specification (SUS)**
 

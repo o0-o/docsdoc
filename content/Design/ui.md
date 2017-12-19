@@ -1,14 +1,7 @@
 /*
 Title: User Interface (UI)
 Sort: 200
-
-Template:
-
-0. ****
-
-  * []()
-
-****/
+*/
 
 0. **Material Design**
 

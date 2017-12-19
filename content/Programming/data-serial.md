@@ -1,13 +1,6 @@
 /*
 Title: Data Serialization Formats
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Extensible Markup Language (XML)**
 

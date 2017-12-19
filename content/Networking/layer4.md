@@ -1,14 +1,7 @@
 /*
 Title: OSI Layer 4 (Transport)
 Sort: 500
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Service Name and Transport Protocol Port Number Registry**
 

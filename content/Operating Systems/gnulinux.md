@@ -1,14 +1,7 @@
 /*
 Title: GNU/Linux
 Sort: 500
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **GNU's Not Unix! (GNU)**
 

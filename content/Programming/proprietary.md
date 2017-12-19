@@ -1,13 +1,6 @@
 /*
 Title: Proprietary
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Google**
 

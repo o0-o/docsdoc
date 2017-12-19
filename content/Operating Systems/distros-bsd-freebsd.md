@@ -1,14 +1,7 @@
 /*
 Title: BSD Distributions (FreeBSD)
 Sort: 300
-
-Template:
-
-0. ****
-
-  * []()
-
-****/
+*/
 
 0. **FreeBSD**
 

@@ -1,14 +1,7 @@
 /*
 Title: Command-Line Interpreters
 Sort: 1100
-
-Template:
-
-0. ****
-
-* []()
-
-****/
+*/
 
 0. **Bourne-Again shell (BASH)**
 

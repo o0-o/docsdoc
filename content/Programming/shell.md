@@ -6,7 +6,7 @@ Title: Command-Line Interpreters and Shell Scripting
 
  * [IEEE Std 1003.1-2008, 2016 Edition (POSIX)](http://pubs.opengroup.org/onlinepubs/9699919799/)
  
- * [Man Page (via SourceForge)[http://heirloom.sourceforge.net/sh/sh.1.html]
+ * [Man Page (via SourceForge)](http://heirloom.sourceforge.net/sh/sh.1.html)
  
  * [Wikipedia](https://en.wikipedia.org/wiki/Bourne_shell)
  

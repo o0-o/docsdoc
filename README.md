@@ -3,7 +3,7 @@
 
 docsDoc is a structured compilation of various documentation concerning information technology and computer science. It originated in [this Level1Techs forum post](https://forum.level1techs.com/t/aggregating-documentation/122484/8).
 
-docsDoc can be viewed as individual markdown pages the `content` directory, or as a [Renato](http://raneto.com/) site.
+docsDoc can be viewed as individual markdown pages in the `content` directory, or as a [Renato](http://raneto.com/) site.
 
 ## Local Raneto Install
 

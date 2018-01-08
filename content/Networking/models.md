@@ -19,14 +19,6 @@ Sort: 100
 
   * [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
-0. **Top-Level Domains (TLD)**
-
-  * [Official List](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
-
-  * [Release Schedule](https://newgtlds.icann.org/en/program-status/delegated-strings)
-
-  * [Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
-
 0. **Misc/General**
 
   * [Internetworking Basics (Cisco)](https://www.cisco.com/cpress/cc/td/cpress/fund/ith/ith01gb.htm#xtocid166840)

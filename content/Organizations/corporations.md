@@ -17,6 +17,14 @@ Sort:
   * [Wikipedia](https://en.wikipedia.org/wiki/Apple_Inc.)
 
   * [Twitter](https://twitter.com/AppleSupport)
+  
+0. **Canonical Ltd.**
+
+ * [Official Website](https://www.canonical.com/)
+ 
+ * [Wikipedia](https://en.wikipedia.org/wiki/Canonical_\(company\))
+ 
+ * [Twitter](https://twitter.com/Canonical)
 
 0. **Cisco Systems Inc.**
 

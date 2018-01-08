@@ -29,3 +29,11 @@ Sort:
   * [Wikipedia](https://en.wikipedia.org/wiki/Linux_Foundation#Linux.com)
 
   * [Twitter](https://twitter.com/linuxfoundation)
+
+0. **Mozilla Foundation**
+
+ * [Official Website](https://www.mozilla.org/)
+ 
+ * [Wikipedia](https://en.wikipedia.org/wiki/Mozilla_Foundation)
+ 
+ * [Twitter](https://twitter.com/mozilla)

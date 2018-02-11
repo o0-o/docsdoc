@@ -4,7 +4,7 @@ Title: C Languages
 
 0. **C**
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+  * [Wikipedia](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
 0. **C++**
 
@@ -12,8 +12,8 @@ Title: C Languages
 
 0. **C#**
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)))
+  * [Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
 
 0. **Objective-C**
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/Objective-C))
+  * [Wikipedia](https://en.wikipedia.org/wiki/Objective-C)

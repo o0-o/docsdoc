@@ -11,7 +11,7 @@ Description: 21st Century Languages
   
   * [Github](https://github.com/golang/go)
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/Go_\(programming_language\))
+  * [Wikipedia](https://en.wikipedia.org/wiki/Go_%28programming_language%29)
   
   * [Twitter](https://twitter.com/GolangGo)
 
@@ -27,7 +27,7 @@ Description: 21st Century Languages
   
   * [Github](https://github.com/rust-lang/rust)
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/Rust_\(programming_language\))
+  * [Wikipedia](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
   * [Twitter](https://twitter.com/rustlang)
 
@@ -39,4 +39,4 @@ Description: 21st Century Languages
   
   * [Github](https://github.com/apple/swift)
   
-  * [Wikipedia](https://en.wikipedia.org/wiki/Swift_\(programming_language\))
+  * [Wikipedia](https://en.wikipedia.org/wiki/Swift_%28programming_language%29)

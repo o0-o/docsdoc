@@ -39,7 +39,7 @@ Sort: 800
 
   * [Wikipedia](https://en.wikipedia.org/wiki/BIND)
 
-
+/*
 0. **Dnsmasq**
 
   * 
@@ -47,4 +47,4 @@ Sort: 800
 0. **Unbound**
 
 0. **PowerDNS**
-
+*/

@@ -15,4 +15,4 @@ Title: Command-Line Interpreters and Shell Scripting
 
   * [Official Documentation](https://www.gnu.org/software/bash/manual/bashref.html)
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+  * [Wikipedia](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)

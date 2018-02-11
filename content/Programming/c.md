@@ -8,7 +8,7 @@ Title: C Languages
 
 0. **C++**
 
-  * [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B))
+  * [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
 0. **C#**
 

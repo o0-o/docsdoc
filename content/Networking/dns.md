@@ -38,13 +38,3 @@ Sort: 800
   * [Bug Reporting](https://www.isc.org/community/report-bug/)
 
   * [Wikipedia](https://en.wikipedia.org/wiki/BIND)
-
-/*
-0. **Dnsmasq**
-
-  * 
-
-0. **Unbound**
-
-0. **PowerDNS**
-*/

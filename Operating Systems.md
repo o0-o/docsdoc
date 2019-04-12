@@ -231,4 +231,4 @@
     * ### [vSphere Command-Line Interface Reference](https://code.vmware.com/doc/preview?id=4164)
 
 
-Please [report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).
+Something missing? [Contribute](https://github.com/o0-o/docsdoc).

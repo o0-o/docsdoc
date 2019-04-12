@@ -150,4 +150,4 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/BIND)
 
 
-Please [report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).
+Something missing? [Contribute](https://github.com/o0-o/docsdoc).

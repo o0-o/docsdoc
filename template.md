@@ -26,6 +26,4 @@ _Example or further explanation._ (Optional)
     _Example or further explanation._ (Optional)
 
 
-___
-
-[Report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).
+Something missing? [Contribute](https://github.com/o0-o/docsdoc).

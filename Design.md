@@ -15,6 +15,4 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Material_Design)
 
 
-___
-
-[Report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).
+Please [report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).

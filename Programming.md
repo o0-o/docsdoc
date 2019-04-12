@@ -125,6 +125,4 @@
     * ### [Style Guides](https://google.github.io/styleguide/)
 
 
----
-
-[Report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).
+Please [report broken links](https://github.com/o0-o/docsdoc/issues) or [contribute](https://github.com/o0-o/docsdoc).

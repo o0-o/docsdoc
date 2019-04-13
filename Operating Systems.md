@@ -1,13 +1,13 @@
 # Unix
 
-* ### **Single UNIX Specification (SUS)**
+* ### Single UNIX Specification (SUS)
 
   * ### [IEEE Std 1003.1™-2008, 2016 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/xrat/contents.html)
 
   * ### [Wikipedia](https://en.wikipedia.org/wiki/Single_UNIX_Specification)
 
 
-* ### **Portable Operating System Interface (POSIX)**
+* ### Portable Operating System Interface (POSIX)
 
   * ### [IEEE Std 1003.1™-2008, 2016 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/xrat/contents.html)
 
@@ -16,7 +16,7 @@
 
 # Berkeley Software Distribution (BSD)
 
-* ### **Misc/General**
+* ### Misc/General
 
   * ### [Specification](https://www.freebsd.org/doc/en_US.ISO8859-1/books/design-44bsd/)
 
@@ -29,7 +29,7 @@
 
 # GNU/Linux
 
-* ### **GNU's Not Unix! (GNU)**
+* ### GNU's Not Unix! (GNU)
 
   * ### [Official Website](https://www.gnu.org/)
 
@@ -38,7 +38,7 @@
   * ### [Wikipedia](https://en.wikipedia.org/wiki/GNU)
 
 
-* ### **Linux**
+* ### Linux
 
   * ### [Source Code](https://github.com/torvalds/linux)
 
@@ -49,21 +49,21 @@
   * ### [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
 
-* ### **Linux Standard Base (LSB)**
+* ### Linux Standard Base (LSB)
 
   * ### [Specification](https://refspecs.linuxfoundation.org/lsb.shtml)
 
   * ### [Wikipedia](https://en.wikipedia.org/wiki/Linux_Standard_Base)
 
 
-* ### **Filesystem Hierarchy Standard (FHS)**
+* ### Filesystem Hierarchy Standard (FHS)
 
   * ### [Specification](http://refspecs.linuxfoundation.org/fhs.shtml)
 
   * ### [Wikipedia](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
 
-* ### **Misc/General**
+* ### Misc/General
 
   * ### [GNU/Linux Distribution Timeline](http://futurist.se/gldt/)
 
@@ -74,7 +74,7 @@
 
 # GNU/Linux Distributions (Slackware)
 
-* ### **openSUSE**
+* ### openSUSE
 
   * ### [Official Website](https://www.opensuse.org/)
 
@@ -91,7 +91,7 @@
 
   # GNU/Linux Distributions  (Debian)
 
-  * ### **Debian**
+  * ### Debian
 
     * ### [Official Website](https://www.debian.org/)
 
@@ -106,7 +106,7 @@
     * ### [Twitter](https://twitter.com/debian)
 
 
-  * ### **Ubuntu**
+  * ### Ubuntu
 
     * ### [Official Website](https://www.ubuntu.com/)
 
@@ -121,7 +121,7 @@
     * ### [Twitter](https://twitter.com/ubuntu)
 
 
-  * ### **VyOS**
+  * ### VyOS
 
     * ### [Official Website](https://vyos.io/)
 
@@ -134,7 +134,7 @@
 
 # GNU/Linux Distributions (Red Hat)
 
-  * ### **Fedora**
+  * ### Fedora
 
     * ### [Official Website](https://getfedora.org/)
 
@@ -149,7 +149,7 @@
     * ### [Twitter](https://twitter.com/fedora)
 
 
-  * ### **Red Hat Enterprise Linux (RHEL)**
+  * ### Red Hat Enterprise Linux (RHEL)
 
     * ### [Official Website](https://www.redhat.com/en)
 
@@ -168,7 +168,7 @@
     * ### [Twitter](https://twitter.com/RedHatNews)
 
 
-  * ### **CentOS**
+  * ### CentOS
 
     * ### [Official Website](https://www.centos.org/)
 
@@ -179,7 +179,7 @@
 
   # GNU/Linux Distributions (Independent)
 
-  * ### **Arch**
+  * ### Arch
 
     * ### [Official Website](https://www.archlinux.org/)
 
@@ -196,7 +196,7 @@
 
   # Proprietary Operating Systems
 
-  * ### **Apple macOS**
+  * ### Apple macOS
   Formerly OS X
 
     * ### [Official Website](https://www.apple.com/macos/)
@@ -206,12 +206,12 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/MacOS)
 
 
-  * ### **Microsoft Windows**
+  * ### Microsoft Windows
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 
-  * ### **Ubiquiti EdgeMAX**
+  * ### Ubiquiti EdgeMAX
 
     * ### [Official Website](https://www.ubnt.com/)
 
@@ -222,7 +222,7 @@
     * ### [EdgeMAX Forum](https://community.ubnt.com/edgemax)
 
 
-  * ### **VMWare ESXi**
+  * ### VMWare ESXi
 
     * ### [Official Website](https://www.vmware.com/products/vsphere.html)
 

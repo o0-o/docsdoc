@@ -6,7 +6,7 @@ _Example or further explanation._ (Optional)
 Note about section. (Optional)
 _Example or further explanation._ (Optional)
 
-  * ### **The Thing**
+  * ### The Thing
   Note about section. (Optional)
   _Example or further explanation._ (Optional)
 
@@ -21,7 +21,7 @@ _Example or further explanation._ (Optional)
     * ### [Etc]()
 
 
-  * ### **Thing 2** - IMPORTANT: two empty lines after each thing ^
+  * ### Thing 2 - IMPORTANT: two empty lines after each thing ^
     Note about section. (Optional)
     _Example or further explanation._ (Optional)
 

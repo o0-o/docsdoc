@@ -2,7 +2,7 @@
 
 ## General
 
-  * ### **International Organization for Standardization (ISO)**
+  * ### International Organization for Standardization (ISO)
 
     * ### [Official Website](https://www.iso.org/home.html)
 
@@ -13,21 +13,21 @@
     * ### [Twitter](https://twitter.com/isostandards)
 
 
-  * ### **International Electrotechnical Commission (IEC)**
+  * ### International Electrotechnical Commission (IEC)
 
     * ### [Official Website](http://www.iec.ch/)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
 
 
-  * ### **ISO/IEC Joint Technical Committee 1 (JTC 1)**
+  * ### ISO/IEC Joint Technical Committee 1 (JTC 1)
 
     * ### [Official Website](https://www.iso.org/isoiec-jtc-1.html)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
 
 
-  * ### **Institute of Electrical and Electronics Engineers (IEEE)**
+  * ### Institute of Electrical and Electronics Engineers (IEEE)
 
     * ### [Official Website](https://www.ieee.org/index.html)
 
@@ -38,7 +38,7 @@
 
 ## Internet
 
-  * ### **The Internet Engineering Task Force (IETF)**
+  * ### The Internet Engineering Task Force (IETF)
 
     * ### [Official Website](https://www.ietf.org/)
 
@@ -47,7 +47,7 @@
     * ### [Twitter](https://twitter.com/ietf)
 
 
-  * ### **Internet Corporation for Assigned Names and Number (ICANN)**
+  * ### Internet Corporation for Assigned Names and Number (ICANN)
 
     * ### [Official Website](https://www.icann.org/)
 
@@ -56,7 +56,7 @@
     * ### [Twitter](https://twitter.com/ICANN)
 
 
-  * ### **Internet Assigned Numbers Authority (IANA)**
+  * ### Internet Assigned Numbers Authority (IANA)
 
     * ### [Official Website](https://www.iana.org/)
 
@@ -65,7 +65,7 @@
 
 # Open Source/Advocacy
 
-  * ### **Electronic Frontier Foundation (EFF)**
+  * ### Electronic Frontier Foundation (EFF)
 
     * ### [Official Website](https://www.eff.org/)
 
@@ -74,7 +74,7 @@
     * ### [Twitter](https://twitter.com/EFF)
 
 
-  * ### **Free Software Foundation (FSF)**
+  * ### Free Software Foundation (FSF)
 
     * ### [Official Website](http://www.fsf.org/)
 
@@ -83,7 +83,7 @@
     * ### [Twitter](https://twitter.com/fsf)
 
 
-  * ### **Linux Foundation (LF)**
+  * ### Linux Foundation (LF)
 
     * ### [Official Website](https://www.linuxfoundation.org/)
 
@@ -94,7 +94,7 @@
     * ### [Twitter](https://twitter.com/linuxfoundation)
 
 
-  * ### **Mozilla Foundation**
+  * ### Mozilla Foundation
 
     * ### [Official Website](https://www.mozilla.org/)
 
@@ -104,7 +104,7 @@
 
 # Government (USA)
 
-  * ### **Federal Communications Commission (FCC)**
+  * ### Federal Communications Commission (FCC)
 
     * ### [Official Website](https://www.fcc.gov/)
 
@@ -113,7 +113,7 @@
     * ### [Twitter](https://twitter.com/FCC)
 
 
-  * ### **Federal Trade Commission (FTC)**
+  * ### Federal Trade Commission (FTC)
 
     * ### [Official Website](https://www.ftc.gov/)
 
@@ -124,14 +124,14 @@
 
 # Corporations
 
-  * ### **Alphabet Inc.**
+  * ### Alphabet Inc.
 
     * ### [Official Website](https://abc.xyz/)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Alphabet_Inc.)
 
 
-  * ### **Apple Inc.**
+  * ### Apple Inc.
 
     * ### [Official Website](https://apple.com)
 
@@ -140,7 +140,7 @@
     * ### [Twitter](https://twitter.com/AppleSupport)
 
 
-  * ### **Canonical Ltd.**
+  * ### Canonical Ltd.
 
     * ### [Official Website](https://www.canonical.com/)
 
@@ -149,7 +149,7 @@
     * ### [Twitter](https://twitter.com/Canonical)
 
 
-  * ### **Cisco Systems Inc.**
+  * ### Cisco Systems Inc.
 
     * ### [Official Website](https://www.cisco.com/)
 
@@ -158,7 +158,7 @@
     * ### [Twitter](https://twitter.com/Cisco)
 
 
-  * ### **Google LLC**
+  * ### Google LLC
 
     * ### [Official Website](https://www.google.com/intl/en/about/)
 
@@ -167,7 +167,7 @@
     * ### [Twitter](https://twitter.com/Google)
 
 
-  * ### **Internet Systems Consortium, Inc.**
+  * ### Internet Systems Consortium, Inc.
 
     * ### [Official Website](https://www.isc.org/)
 
@@ -176,7 +176,7 @@
     * ### [Twitter](https://twitter.com/bind9)
 
 
-  * ### **Microsoft Corporation**
+  * ### Microsoft Corporation
 
     * ### [Official Website](https://www.microsoft.com/)
 
@@ -185,7 +185,7 @@
     * ### [Twitter](https://twitter.com/Microsoft)
 
 
-  * ### **Mozilla Corporation**
+  * ### Mozilla Corporation
 
     * ### [Official Website](https://www.mozilla.org/)
 
@@ -194,7 +194,7 @@
     * ### [Twitter](https://twitter.com/mozilla)
 
 
-  * ### **Red Hat Inc.**
+  * ### Red Hat Inc.
 
     * ### [Official Website](https://www.redhat.com/)
 
@@ -203,7 +203,7 @@
     * ### [Twitter](https://twitter.com/RedHatNews)
 
 
-  * ### **Ubiquiti Networks**
+  * ### Ubiquiti Networks
 
     * ### [Official Website](https://www.ubnt.com/)
 
@@ -212,7 +212,7 @@
     * ### [Twitter](https://twitter.com/ubnt)
 
 
-  * ### **VMWare, Inc.**
+  * ### VMWare, Inc.
 
     * ### [Official Website](https://www.vmware.com/)
 

@@ -1,35 +1,35 @@
 # C Languages
 
-  * ### **C**
+  * ### C
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
 
-  * ### **C++**
+  * ### C++
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
-  * ### **C#**
+  * ### C#
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
 
 
-  * ### **Objective-C**
+  * ### Objective-C
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 
 
 # Server-Side Scripting Languages
 
-  * ### **PHP: Hypertext Preprocessor (PHP)**
+  * ### PHP: Hypertext Preprocessor (PHP)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/PHP)
 
 
 # Command-Line Interpreters and Shell Scripting
 
-  * ### **Bourne Shell (SH)**
+  * ### Bourne Shell (SH)
 
     * ### [IEEE Std 1003.1-2008, 2016 Edition (POSIX)](http://pubs.opengroup.org/onlinepubs/9699919799/)
 
@@ -38,7 +38,7 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Bourne_shell)
 
 
-  * ### **Bourne-Again shell (BASH)**
+  * ### Bourne-Again shell (BASH)
 
     * ### [Official Documentation](https://www.gnu.org/software/bash/manual/bashref.html)
 
@@ -47,29 +47,29 @@
 
 # Data Serialization Formats
 
-  * ### **Extensible Markup Language (XML)**
+  * ### Extensible Markup Language (XML)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/XML)
 
 
-  * ### **JavaScript Object Notation (JSON)**
+  * ### JavaScript Object Notation (JSON)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
 
-  * ### **YAML Ain't Markup Language (YAML)**
+  * ### YAML Ain't Markup Language (YAML)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
 # Markup Languages
 
-  * ### **Hypertext Markup Language**
+  * ### Hypertext Markup Language
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 
-  * ### **Markdown**
+  * ### Markdown
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
@@ -77,7 +77,7 @@
 # New Languages
 21st Century languages with no clear lineage.
 
-  * ### **Go (golang)**
+  * ### Go (golang)
 
     * ### [Official Website](https://golang.org/)
 
@@ -90,7 +90,7 @@
     * ### [Twitter](https://twitter.com/GolangGo)
 
 
-  * ### **Rust**
+  * ### Rust
 
     * ### [Official Website](https://www.rust-lang.org/)
 
@@ -107,7 +107,7 @@
     * ### [Twitter](https://twitter.com/rustlang)
 
 
-  * ### **Swift**
+  * ### Swift
 
     * ### [Official Website](https://developer.apple.com/swift/)
 
@@ -120,7 +120,7 @@
 
 # Proprietary
 
-  * ### **Google**
+  * ### Google
 
     * ### [Style Guides](https://google.github.io/styleguide/)
 

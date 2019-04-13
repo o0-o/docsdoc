@@ -1,6 +1,6 @@
 # Networking Models
 
-  * ### **Open Systems Interconnection (OSI)**
+  * ### Open Systems Interconnection (OSI)
 
     * ### [ISO 35.100 (OSI)](https://www.iso.org/ics/35.100/x/)
     Paywalled
@@ -12,43 +12,43 @@
     * ### [Wikipedia (OSI Model)](https://en.wikipedia.org/wiki/OSI_model)
 
 
-  * ### **Internet Protocol Suite (TCP/IP)**
+  * ### Internet Protocol Suite (TCP/IP)
 
     * ### [IETF RFC 1122](https://tools.ietf.org/html/rfc1122)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
 
-  * ### **Misc/General**
+  * ### Misc/General
 
     * ### [Internetworking Basics (Cisco)](https://www.cisco.com/cpress/cc/td/cpress/fund/ith/ith01gb.htm#xtocid166840)
 
 
 # OSI Layer 1 (Physical)
 
-  * ### **Ethernet**
+  * ### Ethernet
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Ethernet)
 
 
-  * ### **Category 5 Cable (CAT5)**
+  * ### Category 5 Cable (CAT5)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Category_5_cable)
 
 
 # OSI Layer 2 (Data Link)
 
-  * ### **Datagram**
+  * ### Datagram
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Datagram)
 
 
-  * ### **Media Access Control Address (MAC Address)**
+  * ### Media Access Control Address (MAC Address)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/MAC_address)
 
 
-  * ### **Organizational Unique Identifier (OUI)**
+  * ### Organizational Unique Identifier (OUI)
 
     * ### [Official List](http://standards-oui.ieee.org/oui.txt)
 
@@ -57,14 +57,14 @@
 
 # OSI Layer 3 (Network)    
 
-  * ### **Misc/General**
+  * ### Misc/General
 
     * ### [Subnet Calculator](http://www.subnet-calculator.com/)
 
 
 # OSI Layer 4 (Transport)
 
-  * ### **Service Name and Transport Protocol Port Number Registry**
+  * ### Service Name and Transport Protocol Port Number Registry
 
     * ### [Official List](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 
@@ -73,7 +73,7 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
 
-  * ### **Proprietary**
+  * ### Proprietary
 
     * ### [Microsoft Port Reference](https://msdn.microsoft.com/en-us/library/cc875824.aspx)
 
@@ -82,12 +82,12 @@
 
 # OSI Layer 5 (Session)
 
-  * ### **Network Socket**
+  * ### Network Socket
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
 
-  * ### **Packet Filter (PF)**
+  * ### Packet Filter (PF)
 
     * ### [Official Documentation](https://www.openbsd.org/faq/pf/filter.html)
 
@@ -96,24 +96,24 @@
 
 # OSI Layer 6 (Presentation)
 
-  * ### **Multipurpose Internet Mail Extensions (MIME)**
+  * ### Multipurpose Internet Mail Extensions (MIME)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/MIME)
 
 
-  * ### **Secure Sockets Layer (SSL)**
+  * ### Secure Sockets Layer (SSL)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 
-  * ### **Transport Layer Security (TLS)**
+  * ### Transport Layer Security (TLS)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
 
 # Domain Name System (DNS)
 
-  * ### **Domain Name System (DNS)**
+  * ### Domain Name System (DNS)
 
     * ### [IETF RFC 6895](https://tools.ietf.org/html/rfc6895)
 
@@ -128,7 +128,7 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
 
 
-  * ### **Top-Level Domains (TLD)**
+  * ### Top-Level Domains (TLD)
 
     * ### [Official List](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
@@ -137,7 +137,7 @@
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
 
 
-  * ### **BIND**
+  * ### BIND
 
     * ### [Official Website](https://www.isc.org/downloads/bind/)
 

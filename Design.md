@@ -1,12 +1,12 @@
 # Software Architecture
 
-  * **Model–View–Controller (MVC)**
+  * Model–View–Controller (MVC)
 
     * ### [Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 # User Interface (UI)
 
-  * ### **Material Design**
+  * ### Material Design
 
     * ### [Official Website](https://material.io/)
 

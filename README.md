@@ -1,3 +1,5 @@
+Update 2022-03-03: I have migrated this into my own [Obsidian](https://obsidian.md/) knowledge base. Currently that information is not public, but I would like to publish it at some point in the future when it is more fleshed out.
+
 # DocsDoc: The Documentation Index
 ### Documentation of Documentation
 
